@@ -12,7 +12,7 @@
 
 9.1. [Системы мониторинга]()
 
-9.2. [Zabbix]()
+9.2. [Zabbix](https://github.com/netology-code/srlb-homework/blob/main/9-02.md)
 
 9.3. [Zabbix. Часть 2]()
 
