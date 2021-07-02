@@ -10,7 +10,7 @@
 
 ## Модуль 9. Мониторинг
 
-9.1. [Системы мониторинга]()
+9.1. [Системы мониторинга](https://github.com/netology-code/srlb-homework/blob/main/9-01.md)
 
 9.2. [Zabbix](https://github.com/netology-code/srlb-homework/blob/main/9-02.md)
 
