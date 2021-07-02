@@ -14,7 +14,7 @@
 
 9.2. [Zabbix](https://github.com/netology-code/srlb-homework/blob/main/9-02.md)
 
-9.3. [Zabbix. Часть 2]()
+9.3. [Zabbix. Часть 2](https://github.com/netology-code/srlb-homework/blob/main/9-03.md)
 
 9.4. [Prometheus]()
 
