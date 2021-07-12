@@ -35,4 +35,4 @@
 
 10.6. [Disaster recovery]()
 
-10.7. [Отказоустойчивость в облаке]()
+10.7. [Отказоустойчивость в облаке](https://github.com/netology-code/srlb-homework/blob/main/10-07.md)
