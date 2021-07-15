@@ -18,7 +18,7 @@
 
 9.4. [Prometheus](https://github.com/netology-code/srlb-homework/blob/main/9-04.md)
 
-9.5. [Prometheus. Часть 2]()
+9.5. [Prometheus. Часть 2](https://github.com/netology-code/srlb-homework/blob/main/9-05.md)
 
 
 ## Модуль 10. Отказоустойчивость
