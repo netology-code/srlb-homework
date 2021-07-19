@@ -25,7 +25,7 @@
 
 10.1. [Keepalived/vrrp](https://github.com/netology-code/srlb-homework/blob/main/10-01.md)
 
-10.2. [Кластеризация]()
+10.2. [Кластеризация](https://github.com/netology-code/srlb-homework/blob/main/10.02.md)
 
 10.3. [Pacemaker]()
 
