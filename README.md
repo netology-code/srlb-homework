@@ -23,7 +23,7 @@
 
 ## Модуль 10. Отказоустойчивость
 
-10.1. [Keepalived/vrrp]()
+10.1. [Keepalived/vrrp](https://github.com/netology-code/srlb-homework/blob/main/10-01.md)
 
 10.2. [Кластеризация]()
 
