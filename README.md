@@ -29,7 +29,7 @@
 
 10.3. [Pacemaker](https://github.com/netology-code/srlb-homework/blob/main/10-03.md)
 
-10.4. [Резервное копирование. Bacula]()
+10.4. [Резервное копирование. Bacula](https://github.com/netology-code/srlb-homework/blob/main/10-04.md)
 
 10.5. [Балансировка нагрузки. HAProxy/Nginx]()
 
