@@ -31,7 +31,7 @@
 
 10.4. [Резервное копирование. Bacula](https://github.com/netology-code/srlb-homework/blob/main/10-04.md)
 
-10.5. [Балансировка нагрузки. HAProxy/Nginx]()
+10.5. [Балансировка нагрузки. HAProxy/Nginx](https://github.com/netology-code/srlb-homework/blob/main/10-05.md)
 
 10.6. [Disaster recovery]()
 
