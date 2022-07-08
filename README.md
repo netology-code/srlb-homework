@@ -33,6 +33,6 @@
 
 10.5. [Балансировка нагрузки. HAProxy/Nginx](https://github.com/netology-code/srlb-homework/blob/main/10-05.md)
 
-10.6. [Disaster recovery]()
+10.6. [Disaster recovery](https://github.com/netology-code/srlb-homework/blob/main/10-06.md)
 
 10.7. [Отказоустойчивость в облаке](https://github.com/netology-code/srlb-homework/blob/main/10-07.md)
