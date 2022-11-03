@@ -10,15 +10,15 @@
 
 ## Модуль 9. Мониторинг
 
-9.1. [Системы мониторинга](https://github.com/netology-code/srlb-homework/blob/main/9-01.md)
+9.1. [Системы мониторинга](9-01.md)
 
-9.2. [Zabbix](https://github.com/netology-code/srlb-homework/blob/main/9-02.md)
+9.2. [Zabbix](9-02.md)
 
-9.3. [Zabbix. Часть 2](https://github.com/netology-code/srlb-homework/blob/main/9-03.md)
+9.3. [Zabbix. Часть 2](9-03.md)
 
-9.4. [Prometheus](https://github.com/netology-code/srlb-homework/blob/main/9-04.md)
+9.4. [Prometheus](9-04.md)
 
-9.5. [Prometheus. Часть 2](https://github.com/netology-code/srlb-homework/blob/main/9-05.md)
+9.5. [Prometheus. Часть 2](9-05.md)
 
 
 ## Модуль 10. Отказоустойчивость
