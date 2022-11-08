@@ -23,16 +23,16 @@
 
 ## Модуль 10. Отказоустойчивость
 
-10.1. [Keepalived/vrrp](https://github.com/netology-code/srlb-homework/blob/main/10-01.md)
+10.1. [Keepalived/vrrp](10-01.md)
 
-10.2. [Кластеризация](https://github.com/netology-code/srlb-homework/blob/main/10-02.md)
+10.2. [Кластеризация](10-02.md)
 
-10.3. [Pacemaker](https://github.com/netology-code/srlb-homework/blob/main/10-03.md)
+10.3. [Pacemaker](10-03.md)
 
-10.4. [Резервное копирование. Bacula](https://github.com/netology-code/srlb-homework/blob/main/10-04.md)
+10.4. [Резервное копирование. Bacula](10-04.md)
 
-10.5. [Балансировка нагрузки. HAProxy/Nginx](https://github.com/netology-code/srlb-homework/blob/main/10-05.md)
+10.5. [Балансировка нагрузки. HAProxy/Nginx](10-05.md)
 
-10.6. [Disaster recovery](https://github.com/netology-code/srlb-homework/blob/main/10-06.md)
+10.6. [Disaster recovery](10-06.md)
 
-10.7. [Отказоустойчивость в облаке](https://github.com/netology-code/srlb-homework/blob/main/10-07.md)
+10.7. [Отказоустойчивость в облаке](10-07.md)
