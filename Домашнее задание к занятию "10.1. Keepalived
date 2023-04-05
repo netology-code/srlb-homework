@@ -1,0 +1,40 @@
+Домашнее задание к занятию "10.1. Keepalived/vrrp" -Дмитрий Савченко
+------- нода 1 ------
+
+vrrp_instance failover_test {
+state MASTER
+interface enp0s3
+virtual_router_id 10
+priority 110
+advert_int 4
+authentication {
+auth_type AH
+auth_pass 1111
+}
+unicast_peer {
+192.168.0.101
+}
+	virtual_ipaddress {
+	192.168.0.254 dev enp0s3 label enp0s3:vip 
+}
+}
+
+-------нода 2 -------
+
+vrrp_instance failover_test {
+state BACKUP
+interface enp0s3
+virtual_router_id 10
+priority 110
+advert_int 4
+authentication {
+auth_type AH
+auth_pass 1111
+}
+unicast_peer {
+192.168.0.102
+}
+	virtual_ipaddress {
+	192.168.0.254 dev enp0s3 label enp0s3:vip 
+}
+}
